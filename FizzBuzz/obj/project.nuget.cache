@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSC/T5i8dvSCDTeKKsUy0HQqdV4p+fpJdk+hRzmDETEbn1ZeeLQpztfJNPwei2DBhDjKUNsyMMyBl6RsNEhDjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\write\\source\\repos\\TDDWithFizzBuzzATA\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\write\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\write\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\write\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\write\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\write\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
